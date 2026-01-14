@@ -12,7 +12,7 @@ import {
 } from "@icons-pack/react-simple-icons";
 
 const socials = [
-  { label: "github", icon: SiGithub, href: "https://github.com/kneesdev" },
+  { label: "github", icon: SiGithub, href: "https://github.com/leeteral" },
   { label: "twitter", icon: SiX, href: "https://x.com/leesiure" },
   {
     label: "discord",
