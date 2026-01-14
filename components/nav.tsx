@@ -39,7 +39,7 @@ export function Nav() {
                 className={
                   active
                     ? "text-foreground hover:underline hover:decoration-dashed"
-                    : "text-muted-foreground hover:text-foreground underline decoration-dashed"
+                    : "text-muted-foreground hover:text-foreground hover:underline hover:decoration-dashed"
                 }
               >
                 {label}
