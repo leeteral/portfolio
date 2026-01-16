@@ -34,23 +34,15 @@ const work = [
 const projects = [
   {
     name: "Duels+",
-    description: "maintaining the launcher, api, backend services, and website",
+    description: "a minecraft proxy designed to enhance your experience on hypixel duels.",
     period: "2025 - present",
     href: "https://duelsplus.com",
   },
   {
-    name: "discord-activity-nextjs",
-    description: "minimal next.js boilerplate for building discord activities",
-    tags: ["Unmaintained"],
-    period: "2025",
-    href: "https://github.com/kneesdev/discord-activity-nextjs",
-  },
-  {
-    name: "Lunar Client Archive",
-    description: "archived installers of the launcher",
-    tags: ["Unmaintained"],
-    period: "2024",
-    href: "https://github.com/kneesdev/LunarClientArchive",
+    name: "Blinze Browser",
+    description: "an open-source web browser optimized for performance and privacy.",
+    period: "2025 - present",
+    href: "https://blinze.com",
   },
 ];
 
