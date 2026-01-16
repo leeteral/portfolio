@@ -143,7 +143,7 @@ export default function Home() {
               className="group block p-5 -mx-5 rounded-lg hover:bg-muted/50"
             >
               <div className="grid md:grid-cols-[140px_1fr] gap-1 md:gap-8">
-                <div className="flex md:flex-col justify-between md:justify-start gap-2">
+                <div className="flex md:flex-col justify-between md:justify-center gap-2">
                   <span className="text-sm text-muted-foreground font-mono">
                     {getPostDate(post.date)}
                   </span>
