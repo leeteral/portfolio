@@ -36,7 +36,7 @@ export function Project({
             {name}
             <ArrowUpRightIcon className="h-4 w-4 text-muted-foreground opacity-0 group-hover:opacity-100" />
           </h3>
-          <p className="text-muted-foreground leading-relaxed">{description}</p>
+          <p className="text-muted-foreground text-sm leading-relaxed">{description}</p>
           {tags && (
             <div className="flex flex-wrap gap-2 mt-3">
               {tags.map((tag) => (

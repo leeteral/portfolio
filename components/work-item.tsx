@@ -38,7 +38,7 @@ export function WorkItem({
             <p className="text-muted-foreground">{role}</p>
             <ArrowUpRightIcon className="h-4 w-4 text-muted-foreground opacity-0 group-hover:opacity-100" />
           </div>
-          <p className="text-foreground/70 text-sm leading-relaxed">{description}</p>
+          <p className="text-muted-foreground text-sm leading-relaxed">{description}</p>
         </div>
       </div>
     </Link>
